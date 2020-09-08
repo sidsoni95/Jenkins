@@ -1,6 +1,0 @@
-projectKey=com.sid.training:jenkins
-serverUrl=http://localhost:9000
-serverVersion=7.9.4.35981
-dashboardUrl=http://localhost:9000/dashboard?id=com.sid.training%3Ajenkins
-ceTaskId=AXRtUSPNPtpzYD9rMh27
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXRtUSPNPtpzYD9rMh27
